@@ -5,3 +5,4 @@ update again.
 Git has a mutable index called stage.
 Git tracks changes.
 HAHAHA
+Creating a new branch is quick.
